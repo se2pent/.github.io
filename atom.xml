@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-09-26T13:13:11.202Z</updated>
+  <updated>2023-09-26T13:29:43.889Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,27 +21,16 @@
     <link href="http://example.com/2023/09/26/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
     <id>http://example.com/2023/09/26/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
     <published>2023-09-26T13:13:11.000Z</published>
-    <updated>2023-09-26T13:13:11.202Z</updated>
+    <updated>2023-09-26T13:29:43.889Z</updated>
     
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2023/09/25/hello-world/"/>
-    <id>http://example.com/2023/09/25/hello-world/</id>
-    <published>2023-09-25T10:58:30.273Z</published>
-    <updated>2023-09-25T10:58:30.273Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="bash">$ hexo new &quot;My New Post&quot;</code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p><code>Hello World</code></p><p><strong>依赖hexo框架的个人博客网站终于上线了，但是很不巧选择了一个停止维护的主题，所以将就看吧</strong></p><p>第一篇博客总结下这个主题的疑似<del>bug</del>与未完善部分</p><ul><li><p>图标链接可以设置链接但是无法设置图标，可能他是ok的，<del>是我太笨了XD</del></p></li><li><p>导航栏未完善，只有首页和文档能用，未来可能完善，<del>或者永远也不会</del></p></li><li><p>其他没测试</p><p>希望这个博客我会记得更新,Bye</p><p><em><strong>END</strong></em></p></li></ul>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;p&gt;&lt;code&gt;Hello World&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;依赖hexo框架的个人博客网站终于上线了，但是很不巧选择了一个停止维护的主题，所以将就看吧&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;第一篇博客总结下这个主题的疑似&lt;del&gt;bug&lt;/del&gt;与未完善部分</summary>
       
     
     
